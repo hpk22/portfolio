@@ -357,7 +357,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: none;
+        background-image: url(images/pexels-philippe-donn-1257860\ \(1\).jpg);
     }
     .header-text{
         margin-top: 100%;
